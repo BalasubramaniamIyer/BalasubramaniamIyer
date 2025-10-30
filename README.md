@@ -28,3 +28,12 @@
 ### Tools
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
+## 📊 My GitHub Stats
+
+![Jane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalasubramaniamIyer&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalasubramaniamIyer&layout=compact&theme=vision-friendly-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BalasubramaniamIyer&theme=dark&hide_border=true)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
