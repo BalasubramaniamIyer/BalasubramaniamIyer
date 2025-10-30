@@ -1,1 +1,1 @@
-![A cool programming GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Mario working image](/mario-working.gif)
