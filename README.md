@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img href="/mario-working.gif">
-
+mario-working.gif
 <!-- **BalasubramaniamIyer/BalasubramaniamIyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  Here are some ideas to get you started:
