@@ -1,7 +1,7 @@
 ![Mario working image](/mario-working.gif)
 # Hi 👋🏻 I'm Balasubramaniam
 ## About Me
- A **Final-year graduate** and A **Full-Stack Developer** eager to work, learn, and grow through real-world projects. Enjoys solving problems and improving with every challenge. Open to feedback and quick to adapt in new environments. Actively building and refining skills through consistent practice. Looking for opportunities to contribute and collaborate.
+ A **Full-Stack Developer** eager to work, learn, and grow through real-world projects. Enjoys solving problems and improving with every challenge. Open to feedback and quick to adapt in new environments. Actively building and refining skills through consistent practice and looking for opportunities to contribute and collaborate.
 
 ## Socials
 <a href="https://www.linkedin.com/in/balasubramaniam-n-324ba5317/">
